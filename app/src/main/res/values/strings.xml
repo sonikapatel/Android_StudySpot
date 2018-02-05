@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string-array name="times">
+
+        <item>9 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+        <item>12 AM </item>
+        <item>1 AM </item>
+        <item>2 AM </item>
+        <item>3 AM </item>
+        <item>4 AM </item>
+
+    </string-array>
+
+    <string-array name="noise">
+        <item>Loud </item>
+        <item>Some music </item>
+        <item>Quiet </item>
+
+    </string-array>
+
+</resources>
